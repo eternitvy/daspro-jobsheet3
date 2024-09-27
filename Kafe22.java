@@ -1,8 +1,8 @@
 import java.util.Scanner;
-public class Siakad22 {
+public class Kafe22 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        boolean keanggotaan
+        boolean keanggotaan;
         int jmlKopi, jmlTeh, jmlRoti;
         double hargaKopi = 12000.0, hargaTeh = 7000.0, hargaRoti = 20000.0;
         double nominalBayar
